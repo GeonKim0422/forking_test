@@ -4,4 +4,5 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 ## 2025 class
 
 This are the comments of 2025 OSS students:
+OSS couses is too hard
 
